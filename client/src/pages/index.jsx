@@ -100,7 +100,7 @@ export default function Home() {
     
     async function generatePlan() {
         setLoading(true);
-        let response = await fetch("http://128.199.11.9/generate", {
+        let response = await fetch("https://api.catapult.travel/generate", {
             method: "POST",
             mode: "cors",
             headers: {
