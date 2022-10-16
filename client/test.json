@@ -1,0 +1,112 @@
+{
+    "city_name": "Madison Wisconsisn",
+    "city_summary": "summary of wisconsin",
+    "city_image": "image of city link",
+    "hotel_name": "Name of Hotel",
+    "hotel_address": "asd as",
+    "hotel_img": "image link",
+    "activities": [
+        {
+            "activity_name": "asd",
+            "activity_address": "asdasdasd",
+            "activity_img": "image of activity url"
+        },
+        {
+            "activity_name": "asd",
+            "activity_address": "asdasdasd",
+            "activity_img": "image of activity url"
+        },
+        {
+            "activity_name": "asd",
+            "activity_address": "asdasdasd",
+            "activity_img": "image of activity url"
+        },
+        {
+            "activity_name": "asd",
+            "activity_address": "asdasdasd",
+            "activity_img": "image of activity url"
+        },
+        {
+            "activity_name": "asd",
+            "activity_address": "asdasdasd",
+            "activity_img": "image of activity url"
+        },
+        {
+            "activity_name": "asd",
+            "activity_address": "asdasdasd",
+            "activity_img": "image of activity url"
+        },
+        {
+            "activity_name": "asd",
+            "activity_address": "asdasdasd",
+            "activity_img": "image of activity url"
+        },
+        {
+            "activity_name": "asd",
+            "activity_address": "asdasdasd",
+            "activity_img": "image of activity url"
+        },
+        {
+            "activity_name": "asd",
+            "activity_address": "asdasdasd",
+            "activity_img": "image of activity url"
+        },
+        {
+            "activity_name": "asd",
+            "activity_address": "asdasdasd",
+            "activity_img": "image of activity url"
+        }
+    ],
+    "restaurants": [
+        {
+            "restaurant_name": "asd",
+            "restaurant_address": "asdasdasd",
+            "restaurant_img": "image of restaurant url"
+        },
+        {
+            "restaurant_name": "asd",
+            "restaurant_address": "asdasdasd",
+            "restaurant_img": "image of restaurant url"
+        },
+        {
+            "restaurant_name": "asd",
+            "restaurant_address": "asdasdasd",
+            "restaurant_img": "image of restaurant url"
+        },
+        {
+            "restaurant_name": "asd",
+            "restaurant_address": "asdasdasd",
+            "restaurant_img": "image of restaurant url"
+        },
+        {
+            "restaurant_name": "asd",
+            "restaurant_address": "asdasdasd",
+            "restaurant_img": "image of restaurant url"
+        },
+        {
+            "restaurant_name": "asd",
+            "restaurant_address": "asdasdasd",
+            "restaurant_img": "image of restaurant url"
+        },
+        {
+            "restaurant_name": "asd",
+            "restaurant_address": "asdasdasd",
+            "restaurant_img": "image of restaurant url"
+        },
+        {
+            "restaurant_name": "asd",
+            "restaurant_address": "asdasdasd",
+            "restaurant_img": "image of restaurant url"
+        },
+        {
+            "restaurant_name": "asd",
+            "restaurant_address": "asdasdasd",
+            "restaurant_img": "image of restaurant url"
+        },
+        {
+            "restaurant_name": "asd",
+            "restaurant_address": "asdasdasd",
+            "restaurant_img": "image of restaurant url"
+        }
+    ]
+}
