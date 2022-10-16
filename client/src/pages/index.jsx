@@ -100,7 +100,7 @@ export default function Home() {
     
     async function generatePlan() {
         setLoading(true);
-        let response = await fetch("http://localhost:3001/generate", {
+        let response = await fetch("http://128.199.11.9:3001/generate", {
             method: "POST",
             mode: "cors",
             headers: {
