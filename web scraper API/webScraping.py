@@ -84,7 +84,7 @@ def web(city="rand"):
     option.add_argument('headless')
     driver = webdriver.Chrome(service=chromePath, options=option)
     driver.implicitly_wait(30)
-    url = "https://www.tripadvisor.com/Search?q="+city+"&searchSessione&sid=59ADC4D2AB939D2613ABD3C3DA9ED0C51664661938160&blockRedirect=true&ssrc=A&rf=2&searchSessionId=2F8CC98604487C61D27838027A9A200E1665877177535ssid&geo=1"
+    url = "https://www.tripadvisor.com/Search?q="+city_name+"&searchSessione&sid=59ADC4D2AB939D2613ABD3C3DA9ED0C51664661938160&blockRedirect=true&ssrc=A&rf=2&searchSessionId=2F8CC98604487C61D27838027A9A200E1665877177535ssid&geo=1"
     driver.get(url)
     #time.sleep(1)
     container_acts = driver.find_elements(By.XPATH, "//div[@class='result-title']")
