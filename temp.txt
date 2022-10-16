@@ -1,0 +1,39 @@
+const [restaurant1Name, setRestaurant1Name] = useState("");
+const [restaurant1Address, setRestaurant1Address] = useState("");
+const [restaurant1Image, setRestaurant1Image] = useState("");
+
+const [restaurant2Name, setRestaurant2Name] = useState("");
+const [restaurant2Address, setRestaurant2Address] = useState("");
+const [restaurant2Image, setRestaurant2Image] = useState("");
+
+const [restaurant3Name, setRestaurant3Name] = useState("");
+const [restaurant3Address, setRestaurant3Address] = useState("");
+const [restaurant3Image, setRestaurant3Image] = useState("");
+
+const [restaurant4Name, setRestaurant4Name] = useState("");
+const [restaurant4Address, setRestaurant4Address] = useState("");
+const [restaurant4Image, setRestaurant4Image] = useState("");
+
+const [restaurant5Name, setRestaurant5Name] = useState("");
+const [restaurant5Address, setRestaurant5Address] = useState("");
+const [restaurant5Image, setRestaurant5Image] = useState("");
+
+const [restaurant6Name, setRestaurant6Name] = useState("");
+const [restaurant6Address, setRestaurant6Address] = useState("");
+const [restaurant6Image, setRestaurant6Image] = useState("");
+
+const [restaurant7Name, setRestaurant7Name] = useState("");
+const [restaurant7Address, setRestaurant7Address] = useState("");
+const [restaurant7Image, setRestaurant7Image] = useState("");
+
+const [restaurant8Name, setRestaurant8Name] = useState("");
+const [restaurant8Address, setRestaurant8Address] = useState("");
+const [restaurant8Image, setRestaurant8Image] = useState("");
+
+const [restaurant9Name, setRestaurant9Name] = useState("");
+const [restaurant9Address, setRestaurant9Address] = useState("");
+const [restaurant9Image, setRestaurant9Image] = useState("");
+
+const [restaurant10Name, setRestaurant10Name] = useState("");
+const [restaurant10Address, setRestaurant10Address] = useState("");
+const [restaurant10Image, setRestaurant10Image] = useState("");

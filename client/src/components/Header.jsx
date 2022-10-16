@@ -3,7 +3,7 @@ export default function Header() {
         <nav className="bg-slate-200">
             <div className="max-w-7xl mx-auto flex justify-between">
                 <div className="p-5">
-                    <span className="text-xl font-bold">Catapult</span>
+                    <span className="text-2xl font-bold">catapult</span>
                 </div>
                 <div>
                     {/* ToDo */}

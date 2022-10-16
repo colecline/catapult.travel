@@ -79,7 +79,7 @@ def web(city="rand"):
     adds= []
     imgs = []
     imgsnot = ""
-    chromePath = Service("/Users/aboodhb_/Documents/PycharmProjects/howdyHack2022/chromedriver")
+    chromePath = Service("../driver/chromedriver")
     option = webdriver.ChromeOptions()
     option.add_argument('headless')
     driver = webdriver.Chrome(service=chromePath, options=option)
