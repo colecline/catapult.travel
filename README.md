@@ -21,5 +21,5 @@ Although the concept of pulling request from the API to the program between diff
 ## What's next for Catapult
 Catapult is looking forward to scale globally with a larger database and a smarter, more integrated AI to allow users an enhanced experience with travel options from all over the world. 
 
-#Video demo link
+## Video demo link
 https://youtu.be/bJJ34wLLXoU
