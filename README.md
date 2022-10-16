@@ -1,4 +1,5 @@
 # catapult
+![Catapult Logos](https://user-images.githubusercontent.com/90864132/196053906-c55001e7-80f2-4531-a9e0-b8c7ad34679b.JPG)
 
 ## Inspiration
 As a team, we wanted to challenge the way people conventionally look at travel websites. Catapult was created as an innovative platform for users to explore possibilities for adventure and travel. 
